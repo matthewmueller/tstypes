@@ -1,0 +1,8 @@
+{
+  "name": "tstypes",
+  "version": "1.0.0",
+  "description": "personal repository of typescript definitions",
+  "keywords": ["typescript", "definitions"],
+  "author": "Matthew Mueller",
+  "license": "MIT"
+}
