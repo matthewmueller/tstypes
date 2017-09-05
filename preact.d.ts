@@ -659,6 +659,7 @@ declare global {
       typeof?: string
       vocab?: string
 
+      // styled-jsx
       jsx?: boolean
     }
 
